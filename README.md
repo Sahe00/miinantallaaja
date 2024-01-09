@@ -1,5 +1,9 @@
 This is the final course project for the elementary programming course. The project is essentially a minesweeper game or perhaps I should call it a *minestomper* in this instance. :) 
 
+<p align="center">
+  <img src="./img/minestomper.png" alt="menu1" width="200"/>
+</p>
+  
 
 **Description:**
 * The gameplay is the classic minesweeper experience where your goal is to uncover all the cells on the board without detonating any mines.
@@ -23,9 +27,6 @@ This is the final course project for the elementary programming course. The proj
   
 * After a game is completed, the result of the game is shown in the console. The result as well as some other statistics such as time and turns are recorded related to each game. To see these records you can access them by choosing the second option [2] once you launch the application.
 
-<p align="center">
-  <img src="./img/minestomper.png" alt="menu1" width="200"/>
-</p>
-  
+
 
 
