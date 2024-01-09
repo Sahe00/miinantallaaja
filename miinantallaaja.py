@@ -1,3 +1,9 @@
+"""
+Credits:
+Author: Santeri Heikkinen
+Haravasto, Sprites - Mika Oja, Oulun yliopisto
+"""
+
 import random
 import time
 import pyglet
